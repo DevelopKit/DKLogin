@@ -1,0 +1,6 @@
+framework module DKLogin {
+  umbrella header "DKLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
